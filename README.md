@@ -5,7 +5,7 @@ The proposed system is an Offline Educational Mobile Application, designed speci
 Offline-First Educational Mobile Application
 3-Week Development Plan
 Collaboration tools
-•	Slack via VS code(Siya will send the link to create the team group)
+•	Live Share via VS code (Siya will send the link to create the team group)
 •	Github
 ________________________________________
 Team Structure
